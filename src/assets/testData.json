@@ -1,0 +1,147 @@
+{
+    "totalMarks": "10",
+    "totalTestCases": "5",
+    "students": [
+        {
+            "rollnumber": "1",
+            "testcasesPassed": "2",
+            "totalMarks": "4"
+        },
+        {
+            "rollnumber": "2",
+            "testcasesPassed": "0",
+            "totalMarks": "0"
+        },
+        {
+            "rollnumber": "3",
+            "testcasesPassed": "3",
+            "totalMarks": "6"
+        },
+        {
+            "rollnumber": "4",
+            "testcasesPassed": "1",
+            "totalMarks": "1"
+        },
+        {
+            "rollnumber": "5",
+            "testcasesPassed": "2",
+            "totalMarks": "5"
+        },
+        {
+            "rollnumber": "6",
+            "testcasesPassed": "4",
+            "totalMarks": "8"
+        },
+        {
+            "rollnumber": "7",
+            "testcasesPassed": "1",
+            "totalMarks": "6"
+        },
+        {
+            "rollnumber": "8",
+            "testcasesPassed": "5",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "9",
+            "testcasesPassed": "10",
+            "totalMarks": "2"
+        },
+        {
+            "rollnumber": "10",
+            "testcasesPassed": "2",
+            "totalMarks": "5"
+        },
+        {
+            "rollnumber": "11",
+            "testcasesPassed": "3",
+            "totalMarks": "7"
+        },
+        {
+            "rollnumber": "12",
+            "testcasesPassed": "4",
+            "totalMarks": "8"
+        },
+        {
+            "rollnumber": "13",
+            "testcasesPassed": "5",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "14",
+            "testcasesPassed": "6",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "15",
+            "testcasesPassed": "7",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "16",
+            "testcasesPassed": "8",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "17",
+            "testcasesPassed": "9",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "18",
+            "testcasesPassed": "10",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "19",
+            "testcasesPassed": "1",
+            "totalMarks": "2"
+        },
+        {
+            "rollnumber": "20",
+            "testcasesPassed": "2",
+            "totalMarks": "4"
+        },
+        {
+            "rollnumber": "21",
+            "testcasesPassed": "3",
+            "totalMarks": "6"
+        },
+        {
+            "rollnumber": "22",
+            "testcasesPassed": "4",
+            "totalMarks": "8"
+        },
+        {
+            "rollnumber": "23",
+            "testcasesPassed": "5",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "24",
+            "testcasesPassed": "6",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "25",
+            "testcasesPassed": "7",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "26",
+            "testcasesPassed": "8",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "27",
+            "testcasesPassed": "9",
+            "totalMarks": "10"
+        },
+        {
+            "rollnumber": "28",
+            "testcasesPassed": "10",
+            "totalMarks": "10"
+        }
+
+    ]
+}

@@ -1,0 +1,10 @@
+{
+	"testcases": "2",
+	"input1": "1",
+	"output1": "1o",
+	"testWeight1": "1",
+	"language": "C",
+	"input2": "2",
+	"output2": "2o",
+	"testWeight2": "undefined"
+}

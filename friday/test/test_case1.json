@@ -1,0 +1,17 @@
+{
+    "test_cases": [
+      {
+        "name": "Test Case 1",
+        "marks": 10
+      },
+      {
+        "name": "Test Case 2",
+        "marks": 10
+      },
+      {
+        "name": "Test Case 3",
+        "marks": 10
+      }
+    ]
+  }
+  

@@ -1,0 +1,20 @@
+{
+	"config": [
+		{
+			"UID": "Romeo-Delta-Ice-Cream",
+			"language": "C"
+		}
+	],
+	"test_cases": [
+		{
+			"test_case": "1",
+			"output": "1",
+			"marks": 10
+		},
+		{
+			"test_case": "2",
+			"output": "2",
+			"marks": 20
+		}
+	]
+}
